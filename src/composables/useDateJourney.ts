@@ -58,8 +58,8 @@ const initialState = (): DateJourneyState => ({
   date: null,
   time: null,
   food: null,
-  excitement: 87,
-  loveScore: 97,
+  excitement: 0,
+  loveScore: 100,
 });
 
 export function useDateJourney() {
