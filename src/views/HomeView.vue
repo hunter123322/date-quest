@@ -38,7 +38,7 @@
                 <p class="text-6xl">🥺</p>
                 <h2 class="mt-5 text-4xl font-black leading-tight text-date-pink sm:text-6xl">
                   HI,
-                  <span class="text-rose-500">EMJEY!</span>
+                  <span class="text-rose-500">LORI!</span>
                    WILL YOU GO ON A DATE WITH ME?
                 </h2>
                 <p class="mx-auto mt-4 max-w-xl text-lg text-date-text/70">
